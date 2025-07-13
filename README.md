@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Amarnathan V
 
-<!--
-**AMARNATHAN-VEL/AMARNATHAN-VEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Frontend Web Developer** | 💻 Passionate about building responsive, user-friendly web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Styling & Layout:** Flexbox, CSS Grid, Responsive Design, Animations
+- **Frameworks & Libraries:** React.js
+- **Tools & Platforms:** Git, GitHub, Chrome DevTools
+- **Other:** SEO Basics, Semantic HTML, Performance Optimization
+
+---
+
+## 📈 Projects
+
+### 👤 [Personal Portfolio Website](https://amarnathanv.github.io/portfolio)  
+HTML5, CSS3  
+A clean, responsive, multi-page portfolio to showcase my projects and resume.  
+[🔗 GitHub Repo](https://github.com/amarnathanv/portfolio)
+
+---
+
+### ✅ [To-Do List App](https://amarnathanv.github.io/todo-app)  
+HTML5, CSS3, JavaScript  
+A dynamic app for managing daily tasks with local storage.  
+[🔗 GitHub Repo](https://github.com/amarnathanv/todo-app)
+
+---
+
+### 📂 [Task Manager App](https://task-manager.netlify.app/)  
+React.js, Hooks  
+A component-based task tracking app with React state management.  
+[🔗 GitHub Repo](https://github.com/amarnathanv/task-manager)
+
+---
+
+### ☁️ [Weather Forecast App](https://weather-app-react.netlify.app/)  
+React.js, Fetch API  
+Fetches real-time weather data by city using OpenWeatherMap API.  
+[🔗 GitHub Repo](https://github.com/amarnathanv/weather-app)
+
+---
+
+## 💼 Experience
+- **HyperVerge Technologies** – Web Development Intern (Jul–Aug 2024)
+- **Academor** – Web Development Intern (Jul–Aug 2023)
+
+---
+
+## 🎓 Education
+🎓 B.Tech in Computer Science, Anna University, Coimbatore  
+📅 Graduating: May 2025  
+📊 CGPA: 7.12
+
+---
+
+## 📫 Contact Me
+📧 amarnathanvel@gmail.com  
+📍 Krishnagiri, Tamil Nadu, India  
+🔗 [LinkedIn](https://linkedin.com/in/amarnathanv)  
