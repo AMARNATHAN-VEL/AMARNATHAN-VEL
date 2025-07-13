@@ -18,7 +18,7 @@
 ### 👤 [Personal Portfolio Website](https://amarnathanv.github.io/portfolio)  
 HTML5, CSS3  
 A clean, responsive, multi-page portfolio to showcase my projects and resume.  
-[🔗 GitHub Repo](https://github.com/amarnathanv/portfolio)
+[🔗 GitHub Repo](https://amarnathan-vel.github.io/Protfolio/)
 
 ---
 
