@@ -6,7 +6,7 @@
 
 ## 🔧 Tech Stack
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Styling & Layout:** Flexbox, CSS Grid, Responsive Design, Animations
+- **Styling & Layout:** Flexbox, CSS Grid, Responsive Design
 - **Frameworks & Libraries:** React.js
 - **Tools & Platforms:** Git, GitHub, Chrome DevTools
 - **Other:** SEO Basics, Semantic HTML, Performance Optimization
