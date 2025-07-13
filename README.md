@@ -60,3 +60,10 @@ Fetches real-time weather data by city using OpenWeatherMap API.
 📧 amarnathanvel@gmail.com  
 📍 Krishnagiri, Tamil Nadu, India  
 🔗 [LinkedIn](https://linkedin.com/in/amarnathanv)  
+
+---
+
+## 📄 My Resume
+[Click here to download](https://github.com/AMARNATHAN-VEL/Protfolio/blob/main/assets/Frontend%20Resume%20Amarnathan.pdf)
+
+
