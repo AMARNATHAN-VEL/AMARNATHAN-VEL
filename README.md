@@ -59,7 +59,7 @@ Fetches real-time weather data by city using OpenWeatherMap API.
 ## 📫 Contact Me
 📧 amarnathanvel@gmail.com  
 📍 Krishnagiri, Tamil Nadu, India  
-🔗 [LinkedIn](https://linkedin.com/in/amarnathanv)  
+🔗 [LinkedIn](https://www.linkedin.com/in/amarnathanvel/)  
 
 ---
 
