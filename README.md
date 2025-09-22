@@ -42,14 +42,6 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Amarnathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarnathanvel&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarnathanvel&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarnathanvel&theme=radical&hide_border=true)
-
 ## 🚀 Featured Projects
 
 ### 🛒 E-commerce Product Showcase
