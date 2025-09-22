@@ -1,6 +1,6 @@
 # Hi, I'm Amarnathan V! 👋
 
-**Frontend Developer | React.js Enthusiast | Computer Science Graduate**
+**Frontend Developer | React.js Developer | Web Developer | Computer Science Graduate**
 
 🎓 Bachelor of Engineering - Computer Science Engineering from Anna University Regional Campus, Coimbatore (CGPA: 7.12)  
 📍 Krishnagiri, Tamil Nadu, India  
