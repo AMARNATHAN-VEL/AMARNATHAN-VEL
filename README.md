@@ -1,69 +1,116 @@
-# 👋 Hi, I'm Amarnathan V
+# Hi, I'm Amarnathan V! 👋
 
-🚀 **Aspiring Frontend Web Developer** | 💻 Passionate about building responsive, user-friendly web applications
+**Frontend Developer | React.js Enthusiast | Computer Science Graduate**
 
----
+🎓 Bachelor of Engineering - Computer Science Engineering from Anna University Regional Campus, Coimbatore (CGPA: 7.12)  
+📍 Krishnagiri, Tamil Nadu, India  
+📧 amarnathanvel@gmail.com  
+📱 +91 9943649329  
 
-## 🔧 Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Styling & Layout:** Flexbox, CSS Grid, Responsive Design
-- **Frameworks & Libraries:** React.js
-- **Tools & Platforms:** Git, GitHub, Chrome DevTools
-- **Other:** SEO Basics, Semantic HTML, Performance Optimization
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=amarnathanvel&color=blue)
 
-## 📈 Projects
+## 🚀 About Me
 
-### 👤 [Personal Portfolio Website](https://amarnathan-vel.github.io/Protfolio/)  
-HTML5, CSS3  
-A clean, responsive, multi-page portfolio to showcase my projects and resume.  
-[🔗 GitHub Repo](https://amarnathan-vel.github.io/Protfolio/)
+- 🔭 I'm a **Frontend Developer** specializing in **React.js** and modern web technologies
+- 💼 Recently completed internships at **HyperVerge Technologies** and **Academor**
+- 🌱 Currently seeking opportunities as a **React.js Developer** in Chennai/Bangalore
+- 🎯 Passionate about creating responsive, user-friendly web applications
+- 📝 I enjoy building projects that solve real-world problems
 
----
+## 🛠️ Tech Stack
 
-### ✅ [To-Do List App](https://amarnathanv.github.io/todo-app)  
-HTML5, CSS3, JavaScript  
-A dynamic app for managing daily tasks with local storage.  
-[🔗 GitHub Repo](https://github.com/amarnathanv/todo-app)
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
----
+### Styling & Layout
+![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-02569B?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📂 [Task Manager App](https://task-manager.netlify.app/)  
-React.js, Hooks  
-A component-based task tracking app with React state management.  
-[🔗 GitHub Repo](https://github.com/amarnathanv/task-manager)
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
----
+## 📊 GitHub Stats
 
-### ☁️ [Weather Forecast App](https://weather-app-react.netlify.app/)  
-React.js, Fetch API  
-Fetches real-time weather data by city using OpenWeatherMap API.  
-[🔗 GitHub Repo](https://github.com/amarnathanv/weather-app)
+![Amarnathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarnathanvel&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarnathanvel&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarnathanvel&theme=radical&hide_border=true)
+
+## 🚀 Featured Projects
+
+### 🛒 E-commerce Product Showcase
+**Technologies:** React.js, JavaScript, CSS3, Fake Store API
+- Dynamic product listing with external REST API integration
+- Advanced filtering, search functionality, and shopping cart
+- Responsive design using CSS Grid and Flexbox
+- **[Live Demo](your-live-demo-url)** | **[GitHub](your-github-repo-url)**
+
+### 💼 Personal Portfolio Website
+**Technologies:** React.js, CSS3, React Router
+- Fully responsive portfolio showcasing technical skills
+- Smooth SPA navigation with React Router
+- Mobile-optimized responsive design
+- **[Live Demo](your-live-demo-url)** | **[GitHub](your-github-repo-url)**
+
+### ✅ Task Management Application
+**Technologies:** HTML5, CSS3, JavaScript (ES6+), localStorage
+- Complete CRUD functionality for task management
+- LocalStorage integration for data persistence
+- Responsive UI with DOM manipulation
+- **[Live Demo](your-live-demo-url)** | **[GitHub](your-github-repo-url)**
 
 ## 💼 Experience
-- **HyperVerge Technologies** – Web Development Intern (Jul–Aug 2024)
-- **Academor** – Web Development Intern (Jul–Aug 2023)
+
+### 🏢 HyperVerge Technologies Pvt Ltd
+**Web Development Intern** | July 2024 - August 2024
+- Built responsive user interfaces using modern HTML5, CSS3, and JavaScript
+- Collaborated with design teams for UI component integration
+- Implemented cross-device compatibility and mobile-first design
+
+### 🏢 Academor
+**Web Development Intern** | July 2023 - August 2023
+- Developed static web pages with semantic HTML structure
+- Enhanced proficiency in frontend fundamentals and best practices
+- Gained experience in team-based development processes
+
+## 📜 Certifications
+
+- **HTML, CSS & JavaScript Certification** - EduPrep (July 2023)
+- **Web Development Certification** - Academor (September 2023)
+
+## 📈 Current Focus
+
+- 🔍 Actively seeking **React.js Developer** opportunities
+- 📚 Deepening knowledge in **React Hooks** and **State Management**
+- 🎯 Exploring **Next.js** and **TypeScript**
+- 🤝 Open to collaborating on frontend projects
+
+## 📫 Let's Connect!
+
+- 📧 Email: amarnathanvel@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
+- 🌐 Portfolio: [Your Portfolio Website](your-portfolio-url)
+- 📱 Phone: +91 9943649329
 
 ---
 
-## 🎓 Education
-🎓 B.Tech in Computer Science, Anna University, Coimbatore  
-📅 Graduating: May 2025  
-📊 CGPA: 7.12
+⭐️ From [amarnathanvel](https://github.com/amarnathanvel)
 
----
-
-## 📫 Contact Me
-📧 amarnathanvel@gmail.com  
-📍 Krishnagiri, Tamil Nadu, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/amarnathanvel/)  
-
----
-
-## 📄 My Resume
-[Click here to download](https://github.com/AMARNATHAN-VEL/Protfolio/blob/main/assets/Frontend%20Resume%20Amarnathan.pdf)
-
-
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amarnathanvel&label=Profile%20views&color=0e75b6&style=flat" alt="amarnathanvel" />
+</p>
