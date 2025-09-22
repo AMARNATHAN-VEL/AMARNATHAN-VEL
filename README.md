@@ -7,8 +7,8 @@
 📧 amarnathanvel@gmail.com  
 📱 +91 9943649329  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarnathanvel/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amarnathanvel.netlify.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amarnathanvel&color=blue)
 
@@ -47,23 +47,23 @@
 ### 🛒 E-commerce Product Showcase
 **Technologies:** React.js, JavaScript, CSS3, Fake Store API
 - Dynamic product listing with external REST API integration
-- Advanced filtering, search functionality, and shopping cart
+- Advanced filtering and shopping cart
 - Responsive design using CSS Grid and Flexbox
-- **[Live Demo](your-live-demo-url)** | **[GitHub](your-github-repo-url)**
+- **[Live Demo](https://amar-e-commerce-product-showcase.netlify.app)** | **[GitHub](https://github.com/AMARNATHAN-VEL/E-commerce-Product-Showcase)**
 
 ### 💼 Personal Portfolio Website
 **Technologies:** React.js, CSS3, React Router
 - Fully responsive portfolio showcasing technical skills
 - Smooth SPA navigation with React Router
 - Mobile-optimized responsive design
-- **[Live Demo](your-live-demo-url)** | **[GitHub](your-github-repo-url)**
+- **[Live Demo](https://amarnathanvel.netlify.app)** | **[GitHub](https://github.com/AMARNATHAN-VEL/Protfolio-react/tree/main/protfolio)**
 
 ### ✅ Task Management Application
 **Technologies:** HTML5, CSS3, JavaScript (ES6+), localStorage
-- Complete CRUD functionality for task management
+- Create, Complete, and Delete tasks functionality for task management
 - LocalStorage integration for data persistence
 - Responsive UI with DOM manipulation
-- **[Live Demo](your-live-demo-url)** | **[GitHub](your-github-repo-url)**
+- **[Live Demo](https://amarnathan-vel.github.io/TO-DO-List/)** | **[GitHub](https://github.com/AMARNATHAN-VEL/TO-DO-List)**
 
 ## 💼 Experience
 
@@ -94,13 +94,13 @@
 ## 📫 Let's Connect!
 
 - 📧 Email: amarnathanvel@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- 🌐 Portfolio: [Your Portfolio Website](your-portfolio-url)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amarnathanvel/)
+- 🌐 Portfolio: [Your Portfolio Website](https://amarnathanvel.netlify.app)
 - 📱 Phone: +91 9943649329
 
 ---
 
-⭐️ From [amarnathanvel](https://github.com/amarnathanvel)
+⭐️ From [amarnathanvel](https://github.com/AMARNATHAN-VEL)
 
 <!-- Visitor Badge -->
 <p align="center">
