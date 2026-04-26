@@ -87,7 +87,7 @@ I also bring strong MySQL and SQL fundamentals through end-to-end database work 
 - Designed and developed a single-page portfolio to showcase skills, projects, and experience with smooth navigation and responsive layout.
 
 🔗 Live: https://amarnathanvel.netlify.app  
-💻 Code: add your GitHub repo link here
+💻 Code: https://github.com/AMARNATHAN-VEL/Protfolio-react/tree/main/protfolio
 
 ---
 
