@@ -17,7 +17,7 @@ I enjoy building **responsive, production-ready web applications** that use **RE
 
 Along with frontend, I also have strong **MySQL and SQL fundamentals** from building an end-to-end **E-Commerce Database System** with proper normalization, relationships, complex queries, stored procedures, views and triggers.
 
-I’m currently looking for **React.js / Frontend Developer roles ** in **Chennai, Bangalore and other Indian tech hubs**, where I can contribute to real-world products and grow with an engineering team.
+I’m currently looking for **React.js / Frontend Developer roles** in **Chennai, Bangalore and other Indian tech hubs**, where I can contribute to real-world products and grow with an engineering team.
 
 ---
 
@@ -67,7 +67,7 @@ I’m currently looking for **React.js / Frontend Developer roles ** in **Chenna
 - Wrote **advanced SQL queries** with joins, subqueries and aggregations to generate reports like top-selling products, top customers and sales summaries. 
 - Implemented **stored procedures** for order placement, order status updates, order history and sales reporting; created **triggers** for stock updates, preventing negative inventory and maintaining an order audit log.  
 
-💻 Code & SQL Scripts: `your GitHub repo link`
+💻 Code & SQL Scripts: `[your GitHub repo link](https://github.com/AMARNATHAN-VEL/e-commerce-database-project)`
 
 ---
 
@@ -78,8 +78,8 @@ I’m currently looking for **React.js / Frontend Developer roles ** in **Chenna
 - Built a responsive to‑do app with **create, update, delete and persistent storage** functionality.
 - Used vanilla JavaScript for efficient DOM updates and smooth user interaction across devices and browser sessions. 
 
-🔗 Live Demo: `your live link`  
-💻 Code: `your GitHub repo link`
+🔗 Live Demo: [live link](https://amarnathan-vel.github.io/TO-DO-List/)  
+💻 Code: [GitHub repo link](https://github.com/AMARNATHAN-VEL/TO-DO-List)
 
 ---
 
@@ -90,7 +90,7 @@ I’m currently looking for **React.js / Frontend Developer roles ** in **Chenna
 - Designed and developed a **single-page portfolio** to showcase skills, projects and experience with smooth navigation and responsive layout. 
 
 🔗 Live: https://amarnathanvel.netlify.app  
-💻 Code: `your GitHub repo link`
+💻 Code: [your GitHub repo link](https://amarnathanvel.netlify.app/)
 
 ---
 
