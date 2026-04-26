@@ -1,108 +1,135 @@
-# Hi, I'm Amarnathan V! 👋
+# Hi, I'm Amarnathan V 👋
 
-**Frontend Developer | React.js Developer | Web Developer | Computer Science Graduate**
+**Frontend React.js Developer | JavaScript | MySQL & SQL Fundamentals**
 
-🎓 Bachelor of Engineering - Computer Science Engineering from Anna University Regional Campus, Coimbatore (CGPA: 7.12)  
-📍 Krishnagiri, Tamil Nadu, India  
-📧 amarnathanvel@gmail.com  
-📱 +91 9943649329  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarnathanvel/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amarnathanvel.netlify.app)
-
-![Profile Views](https://komarev.com/ghpvc/?username=amarnathanvel&color=blue)
-
-## 🚀 About Me
-
-- 🔭 I'm a **Frontend Developer** specializing in **React.js** and modern web technologies
-- 💼 Recently completed internships at **HyperVerge Technologies** and **Academor**
-- 🌱 Currently seeking opportunities as a **React.js Developer** in Chennai/Bangalore
-- 🎯 Passionate about creating responsive, user-friendly web applications
-- 📝 I enjoy building projects that solve real-world problems
-
-## 🛠️ Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
-### Styling & Layout
-![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-02569B?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🛒 E-commerce Product Showcase
-**Technologies:** React.js, JavaScript, CSS3, Fake Store API
-- Dynamic product listing with external REST API integration
-- Advanced filtering and shopping cart
-- Responsive design using CSS Grid and Flexbox
-- **[Live Demo](https://amar-e-commerce-product-showcase.netlify.app)** | **[GitHub](https://github.com/AMARNATHAN-VEL/E-commerce-Product-Showcase)**
-
-### 💼 Personal Portfolio Website
-**Technologies:** React.js, CSS3, React Router
-- Fully responsive portfolio showcasing technical skills
-- Smooth SPA navigation with React Router
-- Mobile-optimized responsive design
-- **[Live Demo](https://amarnathanvel.netlify.app)** | **[GitHub](https://github.com/AMARNATHAN-VEL/Protfolio-react/tree/main/protfolio)**
-
-### ✅ Task Management Application
-**Technologies:** HTML5, CSS3, JavaScript (ES6+), localStorage
-- Create, Complete, and Delete tasks functionality for task management
-- LocalStorage integration for data persistence
-- Responsive UI with DOM manipulation
-- **[Live Demo](https://amarnathan-vel.github.io/TO-DO-List/)** | **[GitHub](https://github.com/AMARNATHAN-VEL/TO-DO-List)**
-
-## 💼 Experience
-
-### 🏢 HyperVerge Technologies Pvt Ltd
-**Web Development Intern** | July 2024 - August 2024
-- Built responsive user interfaces using modern HTML5, CSS3, and JavaScript
-- Collaborated with design teams for UI component integration
-- Implemented cross-device compatibility and mobile-first design
-
-### 🏢 Academor
-**Web Development Intern** | July 2023 - August 2023
-- Developed static web pages with semantic HTML structure
-- Enhanced proficiency in frontend fundamentals and best practices
-- Gained experience in team-based development processes
-
-## 📜 Certifications
-
-- **HTML, CSS & JavaScript Certification** - EduPrep (July 2023)
-- **Web Development Certification** - Academor (September 2023)
-
-## 📈 Current Focus
-
-- 🔍 Actively seeking **React.js Developer** opportunities
-- 📚 Deepening knowledge in **React Hooks** and **State Management**
-- 🎯 Exploring **Next.js** and **TypeScript**
-- 🤝 Open to collaborating on frontend projects
-
-## 📫 Let's Connect!
-
-- 📧 Email: amarnathanvel@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amarnathanvel/)
-- 🌐 Portfolio: [Your Portfolio Website](https://amarnathanvel.netlify.app)
-- 📱 Phone: +91 9943649329
+- 📍 Chennai, Tamil Nadu, India  
+- 🎓 B.E. Computer Science Engineering, Anna University Regional Campus Coimbatore  
+- 📧 Email: amarnathanvel@gmail.com  
+- 🔗 Portfolio: https://amarnathanvel.netlify.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/amarnathanvel/  
 
 ---
 
-⭐️ From [amarnathanvel](https://github.com/AMARNATHAN-VEL)
+## 🚀 About Me
 
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amarnathanvel&label=Profile%20views&color=0e75b6&style=flat" alt="amarnathanvel" />
-</p>
+I’m a Frontend Developer with hands-on experience in **React.js, JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS**.[file:1]  
+I enjoy building **responsive, production-ready web applications** that use **REST APIs, reusable components, state management and session persistence** to solve real user problems.[file:1]  
+
+Along with frontend, I also have strong **MySQL and SQL fundamentals** from building an end-to-end **E-Commerce Database System** with proper normalization, relationships, complex queries, stored procedures, views and triggers.[file:2]  
+
+I’m currently looking for **React.js / Frontend Developer roles (3–7 LPA)** in **Chennai, Bangalore and other Indian tech hubs**, where I can contribute to real-world products and grow with an engineering team.[file:1][file:2]
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend & UI**  
+- React.js, React Hooks, React Router, Context API  
+- JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+- Responsive design, Flexbox, CSS Grid, mobile-first UI  
+
+**APIs & Data Handling**  
+- REST APIs, Fetch API, Axios  
+- JSON handling, JSON Server, localStorage/session storage  
+
+**Database & SQL**  
+- MySQL, SQL  
+- ER modeling, normalization, schema design, primary/foreign keys  
+- Joins, subqueries, aggregations, views, CTEs, window functions  
+- Stored procedures, triggers, business logic implementation in SQL  
+
+**Tools & Platforms**  
+- Git, GitHub, GitHub Pages, Netlify, Vite  
+- VS Code, Chrome DevTools, MySQL Workbench  
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 React E‑commerce Web App
+
+**Tech:** React.js, Vite, React Router, Context API, Tailwind CSS, JSON Server, REST APIs[file:1]  
+
+- Built a fully responsive e-commerce application with product listing, product details, cart, authentication and checkout flows.[file:1]  
+- Created a **JSON Server-based mock API** for products, users, carts and orders to simulate real frontend–backend interaction.[file:1]  
+- Implemented **login/registration, session persistence, cart management and order history** using Context API and localStorage.[file:1]  
+
+🔗 Live Demo: `your live link`  
+💻 Code: `your GitHub repo link`
+
+---
+
+### 🗄️ MySQL E‑Commerce Database System
+
+**Tech:** MySQL, SQL, ER Modeling, Joins, Views, Stored Procedures, Triggers[file:2]  
+
+- Designed and developed a **relational e-commerce database** managing customers, products, carts, orders, payments and inventory with normalized tables and proper keys.[file:2]  
+- Wrote **advanced SQL queries** with joins, subqueries and aggregations to generate reports like top-selling products, top customers and sales summaries.[file:2]  
+- Implemented **stored procedures** for order placement, order status updates, order history and sales reporting; created **triggers** for stock updates, preventing negative inventory and maintaining an order audit log.[file:2]  
+
+💻 Code & SQL Scripts: `your GitHub repo link`
+
+---
+
+### ✅ To‑Do Task Management App
+
+**Tech:** HTML5, CSS3, JavaScript (ES6+), localStorage[file:1]  
+
+- Built a responsive to‑do app with **create, update, delete and persistent storage** functionality.[file:1]  
+- Used vanilla JavaScript for efficient DOM updates and smooth user interaction across devices and browser sessions.[file:1]  
+
+🔗 Live Demo: `your live link`  
+💻 Code: `your GitHub repo link`
+
+---
+
+### 💼 Portfolio Website (React)
+
+**Tech:** React.js, React Router, CSS3[file:1]  
+
+- Designed and developed a **single-page portfolio** to showcase skills, projects and experience with smooth navigation and responsive layout.[file:1]  
+
+🔗 Live: https://amarnathanvel.netlify.app  
+💻 Code: `your GitHub repo link`
+
+---
+
+## 💼 Experience
+
+### Frontend / SQL Developer Intern — Besant Technologies
+
+`Oct 2025 – Present`  
+
+- Built **responsive and reusable UI components** using HTML5, CSS3, JavaScript, React.js and Tailwind CSS for client-facing projects.[file:1]  
+- Collaborated on **component-based frontend architecture** to improve maintainability and code reusability.[file:1]  
+- Integrated REST APIs and handled dynamic data to improve frontend functionality and user experience.[file:1]  
+- Designed and maintained **MySQL database schemas**, wrote complex queries and supported performance tuning and stored procedures.[file:2]  
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.E. Computer Science and Engineering** — Anna University Regional Campus, Coimbatore (2021–2025)[file:1][file:2]  
+
+**Selected Certifications**  
+- React.js Certification — EduPrep (Sep 2025)[file:1]  
+- Responsive Web Design Certification — freeCodeCamp (Sep 2025)[file:1]  
+- HTML, CSS & JavaScript Certification — EduPrep (Jul 2023)[file:1]  
+
+---
+
+## 📌 Current Focus
+
+- Deepening skills in **React Hooks, Context API and project architecture**.[file:1]  
+- Exploring **Next.js** and **TypeScript** for production-ready React apps.  
+- Building more **feature-complete frontend apps backed by realistic SQL databases**.  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **amarnathanvel@gmail.com**  
+- 💼 LinkedIn: [**https://www.linkedin.com/in/amarnathanvel/**](https://www.linkedin.com/in/amarnathanvel/)  
+- 🌐 Portfolio: [**https://amarnathanvel.netlify.app**](https://amarnathanvel.netlify.app)  
+
+> I’m actively looking for **React.js / Frontend Developer roles (3–7 LPA)** and open to technical discussions, referrals and collaborations.
